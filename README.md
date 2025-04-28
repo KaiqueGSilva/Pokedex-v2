@@ -2,7 +2,7 @@
 
 * Projeto Desenvolvido em JavaScript (React), JSX (componentes React) e CSS.
 
-<img src="pokedex-v2.png" alt="Print-Pokedex">
+<img src="pokedex-v2.jpeg" alt="Print-Pokedex">
 
 # Como rodar o projeto
 
